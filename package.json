@@ -21,7 +21,7 @@
     "remotedev-rn-debugger": "^0.8.3"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.1",
     "cryptocurrency-icons": "^0.16.1",
     "expo": "^33.0.0",
     "react": "16.8.3",
